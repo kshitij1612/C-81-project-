@@ -1,0 +1,29 @@
+.body_background {
+    background-image:url("https://image.freepik.com/free-vector/sports-icons-sport-concept-background-icons-sports-games_1416-640.jpg");
+    background-size: 900cm;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Cookie', cursive;
+  }
+  
+  h1 {
+    color: yellow;
+    font-size: 40px;
+    font-weight: bold;
+    font-size: 70px; 
+    background-color: purple;
+    margin-left: 80;
+    margin-right: 80;
+
+  }
+  
+  #myCanvas {
+    border-width: 10px;
+    background-color: #ffefe7;
+    border-color: black;
+    border-style: ridge;
+  }
+  
+  span {
+    font-size: 20px;
+  }
